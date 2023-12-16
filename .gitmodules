@@ -1,0 +1,6 @@
+[submodule "srsRAN_4G"]
+	path = srsRAN_4G
+	url = https://github.com/Chico233/srsRAN_4G_UE.git
+[submodule "open5gs"]
+	path = open5gs
+	url = https://github.com/Chico233/open5gs_attack.git
